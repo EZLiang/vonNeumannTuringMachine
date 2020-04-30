@@ -1,5 +1,5 @@
 # JvN29 Turing Machine
-A project to built a complete turing machine in JvN29
+A project to built a complete, working turing machine in JvN29
 
 ## Contents
  * [What is JvN29?](#What-is-JvN29)
