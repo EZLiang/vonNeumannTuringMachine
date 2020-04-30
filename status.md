@@ -4,10 +4,10 @@ The status of the project. Feel free to contribute.
 
 ## Small components:
  - [ ] A numeric register with read and write for state
- - [x] A viable tape format
+ - [ ] A viable tape format
    - [x] A binary data storage
-   - [x] A way to read
-     - [x] A working head
+   - [ ] A way to read
+     - [ ] A working head
        - [x] A method to read
        - [x] Move left codon
        - [x] Move right codon
@@ -19,5 +19,6 @@ The status of the project. Feel free to contribute.
  - [ ] Viable lookup tables
 
 ## Large components
+ - [ ] All small components
  - [ ] A way to make all components fit together
  - [ ] The final Turing Machine!
